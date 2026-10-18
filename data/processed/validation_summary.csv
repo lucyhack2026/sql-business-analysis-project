@@ -1,0 +1,6 @@
+table_name,rows_count
+customers,8000
+products,120
+orders,25000
+transactions,25000
+support_tickets,6000

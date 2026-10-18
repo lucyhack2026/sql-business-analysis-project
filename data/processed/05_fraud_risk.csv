@@ -1,0 +1,6 @@
+payment_method,transactions,approved_transactions,declined_transactions,refunded_transactions,chargebacks,fraud_flagged_transactions,total_transaction_value,avg_transaction_value,fraud_rate_pct,chargeback_rate_pct
+card,4993,4351.0,350.0,177.0,115.0,355.0,1808092.17,362.13,7.11,2.3
+paypal,4980,4390.0,336.0,162.0,92.0,323.0,1765577.92,354.53,6.49,1.85
+apple_pay,5047,4430.0,337.0,154.0,126.0,126.0,1817699.16,360.15,2.5,2.5
+bank_transfer,5021,4402.0,361.0,154.0,104.0,104.0,1783103.96,355.13,2.07,2.07
+google_pay,4959,4379.0,350.0,143.0,87.0,87.0,1751144.97,353.12,1.75,1.75

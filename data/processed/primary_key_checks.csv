@@ -1,0 +1,6 @@
+table_name,id_column,duplicated_ids,missing_values
+customers,customer_id,0,0
+products,product_id,0,0
+orders,order_id,0,0
+transactions,transaction_id,0,0
+support_tickets,ticket_id,0,0
